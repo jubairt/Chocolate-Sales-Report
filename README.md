@@ -27,7 +27,7 @@ This project showcases an interactive **Awesome Chocolates Dashboard**, created 
 - Top salesperson achieved 60.3% profit margin.
 
 ## Image Preview
-![Dashboard Preview](add_your_image_link_here)
+![Dashboard Preview](https://github.com/jubairt/Chocolate-Sales-Report/blob/main/Chocolate%20Project%20Screenshot.png)
 
 ## Conclusion
 This dashboard provides valuable insights for decision-makers to track business performance and optimize strategies.
